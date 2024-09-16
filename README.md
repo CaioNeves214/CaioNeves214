@@ -17,7 +17,7 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioNeves214&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioAlvim&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioNeves214&show_icons=true&theme=radical)
 
 ### Contacts and Socials:
 
