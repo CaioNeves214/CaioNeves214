@@ -15,8 +15,9 @@
 <div>
 <a href="https://github.com/CaioNeves214">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioNeves214&layout=compact&langs_count=7&theme=react"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAlvim&layout=compact)
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAlvim&layout=compact)
 
 ### Contacts and Socials:
 
