@@ -1,5 +1,5 @@
 # 👋 Olá!
-Meu nome é Caio Neves, um analista de sistema pleno
+Meu nome é Caio Neves, um desenvolvedor de software junior
 
 Eu construo projetos de automação, soluções tecnicas e comerciais.
 
